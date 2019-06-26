@@ -1,0 +1,1 @@
+Segunda parte de consultas SELECT para o curso Blend Digital House.
