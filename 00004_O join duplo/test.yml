@@ -1,0 +1,2 @@
+- type: query
+  expected: SELECT clientes.nome, clientes.sobrenome, produtos.nome from clientes left join vendas ON vendas.id_cliente = clientes.id left JOIN produtos ON produtos.id = vendas.id_produto;
