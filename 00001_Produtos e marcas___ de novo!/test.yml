@@ -1,2 +1,2 @@
 - type: query
-    expected: SELECT produtos.nome, marcas.nome from produtos INNER JOIN marcas ON marcas.id = produtos.id_marca;
+  expected: SELECT produtos.nome, marcas.nome from produtos INNER JOIN marcas ON marcas.id = produtos.id_marca;
