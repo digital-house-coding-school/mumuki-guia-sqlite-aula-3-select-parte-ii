@@ -1,0 +1,2 @@
+- type: query
+  expected: SELECT produtos.nome, marcas.nome from produtos LEFT JOIN marcas ON marcas.id = produtos.id_marca WHERE pontuacao > 3;
