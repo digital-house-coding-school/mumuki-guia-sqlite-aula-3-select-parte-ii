@@ -1,9 +1,11 @@
 ---
-name: Aula 3 - Select Parte II
+name: Aula 03 - Select Parte II
 locale: pt
 type: learning
 beta: false
+teacher_info: ''
 language: sqlite
 id_format: "%05d"
-order: []
+order:
+- 1
 private: false
