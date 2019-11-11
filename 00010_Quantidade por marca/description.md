@@ -6,4 +6,4 @@ Para isso você terá que:
 
 > 2. Agrupar os resultados por marca
 
-> 3. Inclua os dados necessários no início do SELECT. A ordem correta será primeiro o nome da marca e depois a quantidade. A coluna com o número de marcas deve ser chamada **valor**
+> 3. Inclua os dados necessários no início do SELECT. A ordem correta será primeiro o nome da marca e depois a quantidade. A coluna com o número de marcas deve ser chamada **quantidade**
